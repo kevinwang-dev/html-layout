@@ -1,0 +1,56 @@
+body{
+    /* margin: 0; */
+    width: 100%;
+    height: 100vh;
+}
+
+.main-header{
+    width: 90%;
+    background: lightgrey;
+    height: 200px;
+    margin: auto;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+.main-header-square{
+    width: 150px;
+    height: 150px;
+    background-color: blue;
+    margin: 20px;
+}
+
+section {
+    width: 90%;
+    margin: auto;
+    font-size: 36px;
+}
+
+footer{
+    margin: 10px;
+}
+
+.blue{
+    background-color: blue;
+    width: 90%;
+    height:200px;
+    margin: auto
+}
+.green {
+    background-color: green;
+    width: 90%;
+    height: 200px;
+    margin: auto
+}
+.yellow {
+    background-color: yellow;
+    width: 90%;
+    height: 200px;
+    margin: auto
+}
+.orange {
+    background-color: orange;
+    width: 90%;
+    height: 200px;
+    margin: auto
+}
